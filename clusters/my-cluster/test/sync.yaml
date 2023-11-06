@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  url: https://github.com/wego-example/podinfo-deploy
+  url: https://github.com/priyanka-ravi/podinfo-deploy
